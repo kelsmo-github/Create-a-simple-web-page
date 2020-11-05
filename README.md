@@ -15,4 +15,4 @@ Follow these steps.
 Now we're going to launch a EC2 Server to do this you need to follow these steps.
 1. [Click this link](https://aws.amazon.com/console/)
 2. Scroll down and click __Launch Instance__ 
-3. scroll down a select this option ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+3. scroll down a select this option ![alt text](https://user-images.githubusercontent.com/73938892/98261959-55787080-1f85-11eb-8f0c-37733bc50fc0.png "Ubuntu Server 20.04 LTS (HVM), SSD Volume Type")
