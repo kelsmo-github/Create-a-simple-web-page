@@ -8,5 +8,6 @@ Follow these steps.
 1. [Click this link](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3Fstate%3DhashArgs%2523%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fhomepage&forceMobileApp=0&code_challenge=JxKVl9bU9sZVyOGch1I5BVWAhLF8pPqtlFnGVrQkJqY&code_challenge_method=SHA-256)
 2. Click Root user. 
 3. Fill in your account email. 
-4. Click next and type in your password. 
-5. Click sign in. 
+4. Click next
+5. type in your password. 
+6. Click sign in. 
