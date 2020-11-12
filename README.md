@@ -13,7 +13,7 @@ Follow these steps.
 6. Click __Sign in.__ 
 ## Step 2 launch an "EC2 Server" instance.
 Now we're going to launch a EC2 Server to do this you need to follow these steps.
-1. [Click this link](https://aws.amazon.com/console/)
+1. [Click this link](https://us-east-2.console.aws.amazon.com/ec2/v2/home?region=us-east-2#Home:)
 2. Scroll down and click __Launch Instance__ 
 3. Scroll down a select this option ![alt text](https://user-images.githubusercontent.com/73938892/98261959-55787080-1f85-11eb-8f0c-37733bc50fc0.png "Ubuntu Server 20.04 LTS (HVM), SSD Volume Type")
 4. Select the free option and then click __Review and launch__ ![alt text](https://user-images.githubusercontent.com/73938892/98263561-47c3ea80-1f87-11eb-9f97-fea5afd60e19.png "free option")
