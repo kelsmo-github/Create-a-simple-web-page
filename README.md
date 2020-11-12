@@ -19,4 +19,4 @@ Now we're going to launch a EC2 Server to do this you need to follow these steps
 4. Select the free option and then click __Review and launch__ ![alt text](https://user-images.githubusercontent.com/73938892/98263561-47c3ea80-1f87-11eb-9f97-fea5afd60e19.png "free option")
 5. Click __Launch__ ![alt text](https://user-images.githubusercontent.com/73938892/98931925-f95ea080-24de-11eb-9b65-0a5158a35d1e.png "launch")
 6. Select __create a new key pair__ make your __key pair name__ ___key pair___ ![alt text](https://user-images.githubusercontent.com/73938892/98933794-6b37e980-24e1-11eb-8129-7b4f1fe07358.png "key pair name")
-  
+7. Click __View Instances__ 
