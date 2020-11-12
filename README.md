@@ -26,4 +26,4 @@ Now we're going to launch a EC2 Server to do this you need to follow these steps
 3. Click on your __Security group__ ![Screen Shot 2020-11-12 at 3 45 27 pm](https://user-images.githubusercontent.com/73938892/98954821-7e0ce700-24fe-11eb-90ea-c8bae145b33d.png)
 4. Click on __Add rule__ ![Screen Shot 2020-11-12 at 3 50 12 pm](https://user-images.githubusercontent.com/73938892/98955297-012e3d00-24ff-11eb-800c-845cfa5431c4.png)
 5. Clich on __Custom TCP__ and select __HTTP__ and then click on the text box next to custom and select the first option then click __save rules__ ![Screen Shot 2020-11-12 at 3 53 28 pm](https://user-images.githubusercontent.com/73938892/98956108-f0ca9200-24ff-11eb-8915-ea5135f0ad1c.png)
-
+6. __now open Iterm__
