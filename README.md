@@ -32,4 +32,7 @@ Now we're going to launch a EC2 Server to do this you need to follow these steps
 9. type `sudo apt update`
 10. type `sudo apt install apache2`
 11. Now go back to AWS and click on your incstance id
-12. Click open address 
+12. Click open address ![Screen Shot 2020-11-12 at 4 29 52 pm](https://user-images.githubusercontent.com/73938892/98960321-96800000-2504-11eb-93da-052977282d43.png)
+13. Click on the search bar 
+14. Click the left arrow on your keybord
+15. Change https to http
