@@ -22,3 +22,5 @@ Now we're going to launch a EC2 Server to do this you need to follow these steps
 7. Click __View Instances__ ![alt text](https://user-images.githubusercontent.com/73938892/98934586-a1c23400-24e2-11eb-90f9-199a39e5129e.png "view instances")
 ## Step 3 get a defult Apache website running
 1. Click on your __Instance ID__ ![Screen Shot 2020-11-12 at 3 36 43 pm](https://user-images.githubusercontent.com/73938892/98953588-26ba4700-24fd-11eb-841f-6068b21b4f53.png)
+2. Click on __Security__ ![Screen Shot 2020-11-12 at 3 41 34 pm](https://user-images.githubusercontent.com/73938892/98954142-c7106b80-24fd-11eb-87f4-50e898380b39.png)
+3.
