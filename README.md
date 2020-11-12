@@ -18,4 +18,4 @@ Now we're going to launch a EC2 Server to do this you need to follow these steps
 3. Scroll down a select this option ![alt text](https://user-images.githubusercontent.com/73938892/98261959-55787080-1f85-11eb-8f0c-37733bc50fc0.png "Ubuntu Server 20.04 LTS (HVM), SSD Volume Type")
 4. Select the free option and then click __Review and launch__ ![alt text](https://user-images.githubusercontent.com/73938892/98263561-47c3ea80-1f87-11eb-9f97-fea5afd60e19.png "free option")
 5. Click __Launch__ ![alt text](https://user-images.githubusercontent.com/73938892/98931925-f95ea080-24de-11eb-9b65-0a5158a35d1e.png "launch")
- 
+6. Select __create a new key pair__ make your __key pair name__ ___key pair___  
