@@ -21,4 +21,4 @@ Now we're going to launch a EC2 Server to do this you need to follow these steps
 6. Select __create a new key pair__ make your __key pair name__ ___key pair___ ![alt text](https://user-images.githubusercontent.com/73938892/98933794-6b37e980-24e1-11eb-8129-7b4f1fe07358.png "key pair name")
 7. Click __View Instances__ ![alt text](https://user-images.githubusercontent.com/73938892/98934586-a1c23400-24e2-11eb-90f9-199a39e5129e.png "view instances")
 ## Step 3 get a defult Apache website running
-1. Click on your __Instance ID__ 
+1. Click on your __Instance ID__ ![Screen Shot 2020-11-12 at 3 36 43 pm](https://user-images.githubusercontent.com/73938892/98953588-26ba4700-24fd-11eb-841f-6068b21b4f53.png)
