@@ -28,7 +28,7 @@ Now we're going to launch a EC2 Server to do this you need to follow these steps
 5. Clich on __Custom TCP__ and select __HTTP__ and then click on the text box next to custom and select the first option then click __save rules__ ![Screen Shot 2020-11-12 at 3 53 28 pm](https://user-images.githubusercontent.com/73938892/98956108-f0ca9200-24ff-11eb-8915-ea5135f0ad1c.png)
 6. __now open Iterm__
 7. type `chmod 400 keypair.pem`
-8. type `cd downloads`
+8. type `cd downloads` (or wherever your key is stored)
 9. type `ssh -i my-key-pair.pem ubuntu@your-IPv4-address`you can find your IPv4 address by clicking on your istance id and then looking under Public IPv4 address
 10. type `sudo apt update`
 11. type `sudo apt install apache2`
