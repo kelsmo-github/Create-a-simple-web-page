@@ -44,4 +44,5 @@ Now we're going to launch a EC2 Server to do this you need to follow these steps
 21. press y
 22. press enter 
 23. now reload your page
-24. the end result should look like this 
+24. the end result should look like this ![Screen Shot 2020-11-13 at 4 54 06 pm](https://user-images.githubusercontent.com/73938892/99091997-e5936700-25d0-11eb-930d-3a9e2654d35a.png)
+
