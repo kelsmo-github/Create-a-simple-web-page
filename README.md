@@ -28,11 +28,12 @@ Now we're going to launch a EC2 Server to do this you need to follow these steps
 5. Clich on __Custom TCP__ and select __HTTP__ and then click on the text box next to custom and select the first option then click __save rules__ ![Screen Shot 2020-11-12 at 3 53 28 pm](https://user-images.githubusercontent.com/73938892/98956108-f0ca9200-24ff-11eb-8915-ea5135f0ad1c.png)
 6. __now open Iterm__
 7. type `chmod 400 keypair.pem`
-8. type `ssh -i /Downloads/my-key-pair.pem ubuntu@your-IPv4-address`you can find your IPv4 address by clicking on your istance id and then looking under Public IPv4 address
-9. type `sudo apt update`
-10. type `sudo apt install apache2`
-11. Now go back to AWS and click on your incstance id
-12. Click open address ![Screen Shot 2020-11-12 at 4 29 52 pm](https://user-images.githubusercontent.com/73938892/98960321-96800000-2504-11eb-93da-052977282d43.png)
-13. Click on the search bar 
-14. Click the left arrow on your keybord
-15. Change https to http
+8. type `cd downloads`
+9. type `ssh -i my-key-pair.pem ubuntu@your-IPv4-address`you can find your IPv4 address by clicking on your istance id and then looking under Public IPv4 address
+10. type `sudo apt update`
+11. type `sudo apt install apache2`
+12. Now go back to AWS and click on your incstance id
+13. Click open address ![Screen Shot 2020-11-12 at 4 29 52 pm](https://user-images.githubusercontent.com/73938892/98960321-96800000-2504-11eb-93da-052977282d43.png)
+14. Click on the search bar 
+15. Click the left arrow on your keybord
+16. Change https to http
