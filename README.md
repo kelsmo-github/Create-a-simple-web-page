@@ -37,3 +37,11 @@ Now we're going to launch a EC2 Server to do this you need to follow these steps
 14. Click on the search bar 
 15. Click the left arrow on your keybord
 16. Change https to http
+17. go back to iterm and type `cd /var/www/html`
+18. type `sudo nano index.html`
+19. copy and paste this code `<!DOCTYPE html> <html> <body> <h1>My First Heading</h1><p>My first paragraph.</p> </body> </html>`
+20. press command x
+21. press y
+22. press enter 
+23. now reload your page
+24. the end result should look like this 
